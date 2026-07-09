@@ -20,3 +20,6 @@ Singularity does come with its drawbacks, too. For one, Singularity currently ru
 While you *can* filter out spam using your custom spam filter, if chat gets spammed, it may cause Singularity to bug out and not show your message.
 
 Don't worry, we plan on paying for a private WebSocket server in the future so you don't need to worry about spam disrupting your chats.
+
+## Where can I try Singularity?
+You can try Singularity on the official [Singularity itch.io page](https://singularitychat.itch.io/singularity).
