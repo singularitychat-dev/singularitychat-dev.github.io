@@ -19,4 +19,4 @@ You also have your very own custom spam filter where you can add keywords to a l
 Singularity does come with its drawbacks, too. For one, Singularity currently runs on a public WebSocket server. This means it is open to anyone. Trolls can spam global chat and cause disruption.
 While you *can* filter out spam using your custom spam filter, if chat gets spammed, it may cause Singularity to bug out and not show your message.
 
-Don't worry, we plan on paying for a private WebSocket server so you don't need to worry about spam disrupting your chats.
+Don't worry, we plan on paying for a private WebSocket server in the future so you don't need to worry about spam disrupting your chats.
