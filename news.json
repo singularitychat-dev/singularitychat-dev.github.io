@@ -1,5 +1,9 @@
 [
   {
+    "header": "About the upcoming OneJasp Integration",
+    "body": "Hey, everyone! I hope you all are enjoying Singularity! Singularity and OneJasp have teamed up to add a OneJasp integration into Singularity!\n\nThe OneJasp integration will allow Singularity users to sign in and create a Singularity account using their OneJasp account. When users sign in with their OneJasp account, if they have signed into NewZay Hub before, their username will carry over to Singularity.\n\nExpect the OneJasp integration to be added in 0.10.0 with the release of Singularity accounts. When the OneJasp integration gets introduced, users who have a OneJasp account will be able to easily sign up for a Singularity account!\n\nThank you for reading. Stay safe!"
+  },
+  {
     "header": "Reminder about Singularity accounts",
     "body": "Hey, everyone! I hope you all are enjoying Singularity! Soon, you will require a Singularity account to connect to Singularity.\n\nIn Singularity, you can currently choose any username without needing any verification that it's you. This can allow anyone to use your name and impersonate you. With the addition of Singularity accounts, this issue will be fixed.\n\nYou can create a free Singularity account with a unique username and password. This way, in order to use your name, you'll need a password.\n\nExpect Singularity accounts to roll out in 0.10.0 and later be a requirement in 0.11.0. When Singularity accounts become a requirement, nobody will be able to use your username without your password, which will stop impersonators from sending messages as you.\n\nThank you for reading. Stay safe!"
   },
