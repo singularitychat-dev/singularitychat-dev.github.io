@@ -2,29 +2,5 @@
   {
     "header": "Reminder about Singularity accounts",
     "body": "Hey, everyone! I hope you all are enjoying Singularity! Soon, you will require a Singularity account to connect to Singularity.\n\nIn Singularity, you can currently choose any username without needing any verification that it's you. This can allow anyone to use your name and impersonate you. With the addition of Singularity accounts, this issue will be fixed.\n\nYou can create a free Singularity account with a unique username and password. This way, in order to use your name, you'll need a password.\n\nExpect Singularity accounts to roll out in 0.10.0 and later be a requirement in 0.11.0. When Singularity accounts become a requirement, nobody will be able to use your username without your password, which will stop impersonators from sending messages as you.\n\nThank you for reading. Stay safe!"
-  },
-  {
-    "header": "Test",
-    "body": "Singularity News test."
-  },
-  {
-    "header": "Test",
-    "body": "Singularity News test."
-  },
-  {
-    "header": "Test",
-    "body": "Singularity News test."
-  },
-  {
-    "header": "Test",
-    "body": "Singularity News test."
-  },
-  {
-    "header": "Test",
-    "body": "Singularity News test."
-  },
-  {
-    "header": "Test",
-    "body": "Singularity News test."
   }
 ]
