@@ -1,27 +1,12 @@
 [
   {
-    "date": "7/22/2026",
-    "header": "Delay to the Chat Redesign",
-    "body": "Hey, everyone! I hope you all are enjoying Singularity! Unfortunately, we will have to delay the chat redesign.\n\nWe understand you have been waiting for what we realize is a long time as we polish up 0.10.0, which is why we're releasing the update as is and pushing off the chat redesign until later.\n\nWhat this means is 0.10.0 will unfortunately not have the chat redesign or finished images as promised, but we are actively working on making the chat redesign happen!\n\nExpect the chat redesign and finished images to release by 0.10.1. When the update releases, Singularity should have the chat redesign as promised.\n\nThank you for reading. Stay safe!"
-  },
-  {
-    "date": "7/14/2026",
-    "header": "Redesign to the Chat Box",
-    "body": "Hey, everyone! I hope you all are enjoying Singularity! The Chat box is currently undergoing a redesign!\n\nInstead of a list, each chat will now show in its own box. If you're in App or Room Chat, you will be able to see what app people are chatting on! Anyone with updated Singularity/NewZay Hub clients will have their app's logo right next to their message.\n\nExpect the chat redesign to release by 0.10.0 when images are finished. When the chat redesign comes out, you'll be able to view sent images just by clicking the message! You will also be able to copy a message by right-clicking it.\n\nThank you for reading. Stay safe!"
-  },
-  {
-    "date": "7/13/2026",
-    "header": "About the upcoming OneJasp Integration",
-    "body": "Hey, everyone! I hope you all are enjoying Singularity! Singularity and OneJasp have teamed up to add a OneJasp integration into Singularity!\n\nThe OneJasp integration will allow Singularity users to sign in and create a Singularity account using their OneJasp account. When users sign in with their OneJasp account, if they have signed into NewZay Hub before, their username will carry over to Singularity.\n\nExpect the OneJasp integration to be added in 0.10.0 with the release of Singularity accounts. When the OneJasp integration gets introduced, users who have a OneJasp account will be able to easily sign up for a Singularity account!\n\nThank you for reading. Stay safe!"
+    "date": "10/3/2026",
+    "header": "Coming Soon: Profiles and DMs",
+    "body": "Hey, everyone! I hope you all are enjoying Singularity! 0.10.1 is released, and we wanted to tell you what we have planned for the future.\n\nSoon, you'll be able to create a profile on Singularity, as well as add other Singularity users as friends, and even message them privately! This is possible because of 0.10.1 adding support for usernames, allowing for Singularity to send private messages to users.\n\nExpect profiles and direct messages to release by 0.11.0. When the update releases, you'll be able to add people as friends and privately message them.\n\nThank you for reading. Stay safe!"
   },
   {
     "date": "7/13/2026",
     "header": "Reminder about Singularity accounts",
     "body": "Hey, everyone! I hope you all are enjoying Singularity! Soon, you will require a Singularity account to connect to Singularity.\n\nIn Singularity, you can currently choose any username without needing any verification that it's you. This can allow anyone to use your name and impersonate you. With the addition of Singularity accounts, this issue will be fixed.\n\nYou can create a free Singularity account with a unique username and password. This way, in order to use your name, you'll need a password.\n\nExpect Singularity accounts to roll out in 0.10.0 and later be a requirement in 0.11.0. When Singularity accounts become a requirement, nobody will be able to use your username without your password, which will stop impersonators from sending messages as you.\n\nThank you for reading. Stay safe!"
-  },
-  {
-    "date": "7/13/2026",
-    "header": "Coming Soon: Image viewing",
-    "body": "Hey, everyone! I hope you all are enjoying Singularity! We wanted to tell you about the status of images currently.\n\nIn Singularity, you can currently send images, but not view them. This means you'll need to copy the image data URI and paste it into your web browser. This is currently the case because images are a work in progress due to issues regarding users sending images through Singularity. Don't worry, this will be fixed soon.\n\nExpect image viewing to be finished by 0.9.1 or 0.10.0. When images are fully finished, you'll be able to view images with no problem in Singularity.\n\nThank you for reading. Stay safe!"
   }
 ]
